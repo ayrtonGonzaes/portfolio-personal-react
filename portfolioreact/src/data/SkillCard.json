@@ -1,0 +1,16 @@
+[
+    {
+        "id":1,
+        "icon":"https://icons.iconarchive.com/icons/bootstrap/bootstrap/256/Bootstrap-laptop-icon.png",
+        "title": "Maquetacion Web",
+        "description": "Tu sitio web será creado a partir de la estructura basica (HTML), estilizar la pagina (CSS) y agregar interactividad con usuarios (Javascript)."
+    },
+    {
+        "id":2,
+        "icon":"<i class='bi bi-laptop development'></i>",
+        "title": "Diseño web responsive",
+        "description": "Su sitio web contará con adaptaciones para todo tipo de dispositivos electronicos, desde los celulares más antiguos hasta las computadoras nás recientes"
+    }
+
+
+]
